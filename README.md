@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruchita Patil</h1>
+<h1 align="center">Hello👋, I'm Ruchita Patil</h1>
 <h3 align="center">📊 Data Scientist |🤖 Artificial Intelligence Enthusiast </h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a6a2d57672603d99b777b56f54a1cceb9b8a055f05d7a4f46493aa76077193d2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966">
