@@ -7,25 +7,25 @@
 <ul class>
   <li>
     <div align="justify">
-      💻 Code Lover: I enjoy crafting clean, efficient code, breaking down tricky data problems into simple insights, and building reliable web solutions that actually make an impact.
+      💻Code Lover: I enjoy crafting clean, efficient code, breaking down tricky data problems into simple insights, and building reliable web solutions that actually make an impact.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      📈 Data Storyteller: With hands-on experience in Python, pandas, matplotlib, Excel, Power BI, and SQL, I love exploring data, uncovering hidden patterns, and turning numbers into meaningful stories.
+      📈Data Storyteller: With hands-on experience in Python, pandas, matplotlib, Excel, Power BI, and SQL, I love exploring data, uncovering hidden patterns, and turning numbers into meaningful stories.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      🧠 ML Adventurer: I enjoy experimenting with scikit-learn and TensorFlow, building smart models, and applying machine learning to solve real-world problems in creative ways.
+      🧠ML Adventurer: I enjoy experimenting with scikit-learn and TensorFlow, building smart models, and applying machine learning to solve real-world problems in creative ways.
     </div>
   </li>
 
   <li>
     <div align="justify">
-      🤝 Open Source Explorer: I’m excited about open-source communities, actively learning, contributing, and collaborating to grow ideas and innovation together.
+      🤝Open Source Explorer: I’m excited about open-source communities, actively learning, contributing, and collaborating to grow ideas and innovation together.
     </div>
   </li>
 </ul>
